@@ -1,2 +1,7 @@
 # minio-tutorial
-Files for small tutorial for Minio storage
+
+Files for small tutorial about Minio Object storage.
+
+Tutorial on Medium: 
+
+
